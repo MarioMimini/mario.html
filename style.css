@@ -1,0 +1,205 @@
+body{
+  background-color: 
+  #f0f2f5;
+  font-family: Segoe UI,Helvetica Neue,Helvetica,Lucida Grande,Arial,Ubuntu,Cantarell,Fira Sans,sans-serif;
+}
+.div-1{
+  background-color:#00a884;
+  width: 100%;
+  height: 222px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  z-index: -1;
+}
+.title{
+  margin-left: 17.3%;
+  padding-top: 25.5px;
+}
+.logo{
+  border-radius: 50%;
+}
+.logo-div{
+  display: inline-block;
+  background-color:#00a884;
+}
+.whatsapp-div{
+  display: inline-block;
+  height: 30px;
+  background-color:#00a884;
+  position:absolute;
+  padding-top: 12px;
+  margin-left: 14px;
+  color: white;
+  font-weight: 500;
+  font-size: 14px;
+ 
+}
+.divv{
+  height: 875px;
+  background-color: #ffffff;
+  width: 66.55%;
+  margin-left:17.2%;
+  margin-top: 95px;
+  border-radius: 5px;
+  margin-bottom: 80px;
+  box-shadow: 0 17px 50px 0 rgba(11,20,26,.19), 0 12px 15px 0 rgba(11,20,26,.24);
+  
+}
+.conteiner{
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap ;
+  margin: 5px;
+
+  
+  
+ 
+
+  
+}
+.text-div{
+  display: inline-block;
+  background-color: #ffffff;
+  position: relative;
+  top: 0;
+  left: 0;
+  padding-left: 57px;
+  padding-top: 40px;
+  padding-right: 36px;
+}
+.scan-div{
+  display: block;
+  margin-left: 120px;
+  margin-top: 65px;
+  margin-bottom: 30px;
+  background-color: rgb(255, 255, 255);
+  padding-bottom: 0;
+}
+h2{
+  font-size: 28px;
+  font-weight: 300;
+  color:
+  #41525d;
+}
+.text-1{
+  display: inline-block;
+  background-color: white;
+}
+ol{
+  padding-left: 16px;
+  
+}
+
+
+.list-div{
+  display: inline-block;
+  font-size: 18px;
+  color: #41525d;
+  line-height: 40px;
+  font-weight: 400;
+  margin-top: 13px;
+  
+}
+.div-2{
+  background-color: #0b141a06;
+  height: auto;
+  text-align: center;
+  padding-bottom: 30px;
+}
+.link{
+  height: 60px;
+  background-color: rgb(255, 255, 255);
+  width: 88%;
+  margin-left: 6%;
+  padding-top: 33px;
+}
+.link1{
+  color:#008069;
+  font-weight: 400;
+  font-size: 18px;
+  text-decoration: none;
+  
+}
+hr{
+  width: 91%;
+  opacity: 0.3;
+}
+span{
+  font-weight: 600;
+  color:#3b4a54;
+  
+}
+
+.div-2 h2{
+ padding-top: 40px;
+ padding-bottom: 0;
+ margin-bottom: 14px;
+}
+.div-2 h3{
+  padding-bottom: 25px;
+  padding-top: 0;
+  margin: 0;
+}
+.fewfhwl7 {
+  vertical-align: top;
+}
+.need{
+  display: block;
+  color: #008069;
+  font-size: 15px;
+  font-weight: 400;
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+.need:hover{
+  text-decoration:underline;
+}
+@media  (max-width: 1150px) {
+body{
+  width: 100%;
+}
+.divv{
+  height: auto;
+  width: 100%;
+  margin-left: 0;
+  margin-bottom: 20px;
+  left: 0;
+  position:absolute;
+  border-radius: 0;
+  margin-top: 86px;
+  
+}
+.conteiner{
+  display: flex;
+  
+  flex-wrap: wrap ;
+  
+}
+.text-div{
+  font-size: 12px;
+  padding-top: 17px;
+  padding-left: 36px;
+}
+.list-div{
+  font-size: 15px;
+}
+.scan-div{
+  margin-top: 10px;
+}
+.whatsapp-div{
+  margin-left: 5px;
+}
+.title{
+  margin-left: 6.3%;
+}
+.div-2{
+  margin-bottom: 50px;
+}
+.scan-div{
+text-align: center;
+margin-left: 7%;
+margin-top: 40px;
+}
+}
